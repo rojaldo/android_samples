@@ -3,4 +3,7 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world</string>
     <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_life_cycle_test">LifeCycleTestActivity</string>
+    <string name="title_activity_my_fragment">MyFragmentActivity</string>
+    <string name="title_activity_list">ListActivity</string>
 </resources>

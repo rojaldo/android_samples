@@ -14,4 +14,22 @@
             android:layout_height="wrap_content"
             android:text="Calculator" />
 
-    </LinearLayout>
+    <Button
+        android:id="@+id/button_lca"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Life Cycle Test" />
+
+    <Button
+        android:id="@+id/button_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fragment Avtivity" />
+
+    <Button
+        android:id="@+id/button_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List Sample" />
+
+</LinearLayout>

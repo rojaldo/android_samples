@@ -28,6 +28,33 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.curso.sample.MainActivity" />
         </activity>
+        <activity
+            android:name=".LifeCycleTestActivity"
+            android:label="@string/title_activity_life_cycle_test"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.curso.sample.MainActivity" />
+        </activity>
+        <activity
+            android:name=".MyFragmentActivity"
+            android:label="@string/title_activity_my_fragment"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.curso.sample.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ListActivity"
+            android:label="@string/title_activity_list"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.curso.sample.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
